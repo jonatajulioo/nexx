@@ -3,4 +3,4 @@ setInterval(function(){
     nameIp.forEach(element =>{
         element.textContent = 'nexxmc.fun';
     });
-;}, 5000);
+;}, 1000);
