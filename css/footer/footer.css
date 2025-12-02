@@ -1,5 +1,6 @@
 .ftrPrincipal{
-    width: 100vw;
+    width: 100%;
+    box-sizing: border-box;
     height: 8.2vh;
     background-color: #79229b;
     margin: 0;
