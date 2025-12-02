@@ -4,4 +4,12 @@
     background-color: blueviolet;
     margin: 0;
     padding: 0;
+    justify-content: center;
+    display: flex;
+}
+.nameIp{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: -1px;
+    font-size: 22px;
+    padding-top: 0.8rem;
 }
